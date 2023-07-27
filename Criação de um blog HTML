@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>O Surgimento da Internet e o HTML</title>
+</head>
+<body>
+    <h1>O Surgimento da Internet</h1>
+    <p>A internet foi desenvolvida na década de 1960, durante a Guerra Fria, pelo Departamento de Defesa dos Estados Unidos com o objetivo de criar uma rede de comunicação descentralizada e robusta. Seu propósito inicial era permitir a troca de informações entre instituições acadêmicas e militares.</p>
+    
+    <h2>O que é o HTML?</h2>
+    <p>O HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para criar páginas e documentos na web. Foi criado por Tim Berners-Lee em 1991 e é a base para a estrutura e o conteúdo das páginas da internet. O HTML permite definir a estrutura do conteúdo usando elementos chamados "tags".</p>
+
+    <h2>O que são as Tags?</h2>
+    <p>As tags são elementos fundamentais no HTML. Elas são utilizadas para estruturar e formatar o conteúdo de uma página da web. As tags são compostas por um nome, geralmente envolto por colchetes angulares (< e >). Alguns exemplos de tags são:</p>
+    
+    <ul>
+        <li><b>&lt;h1&gt;</b>: Define um cabeçalho de nível 1, o maior e mais importante.</li>
+        <li><b>&lt;p&gt;</b>: Define um parágrafo de texto.</li>
+        <li><b>&lt;ul&gt;</b>: Cria uma lista não ordenada.</li>
+        <li><b>&lt;ol&gt;</b>: Cria uma lista ordenada.</li>
+        <li><b>&lt;li&gt;</b>: Define um item de lista, seja em uma lista ordenada ou não ordenada.</li>
+        <li><b>&lt;a&gt;</b>: Cria um link para outra página ou recurso.</li>
+    </ul>
+    
+    <p>Com o uso adequado das tags, é possível criar páginas com uma estrutura bem definida e enriquecer o conteúdo com links, imagens e outros elementos, tornando a web uma rede interconectada e acessível a todos.</p>
+
+    <p>Referências:</p>
+    <ul>
+        <li><a href="https://pt.wikipedia.org/wiki/Internet">Wikipedia - Internet</a></li>
+        <li><a href="https://pt.wikipedia.org/wiki/HTML">Wikipedia - HTML</a></li>
+    </ul>
+</body>
+</html>
