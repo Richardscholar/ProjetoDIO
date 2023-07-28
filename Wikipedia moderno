@@ -5,7 +5,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wikipedia Moderna</title>
     <style>
-        /* Estilos aqui (opcional para este exemplo) */
+         body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #0074D9;
+            color: #FFF;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #333;
+            color: #FFF;
+            padding: 0.5rem;
+            text-align: center;
+        }
+
+        nav a {
+            color: #FFF;
+            text-decoration: none;
+            margin: 0 0.5rem;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            padding: 1rem;
+        }
+
+        footer {
+            background-color: #0074D9;
+            color: #FFF;
+            padding: 1rem;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
