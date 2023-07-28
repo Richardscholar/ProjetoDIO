@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wikipedia Moderna</title>
+    <style>
+        /* Estilos aqui (opcional para este exemplo) */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Wikipedia Moderna</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Página Principal</a></li>
+            <li><a href="#">História</a></li>
+            <li><a href="#">Ciência</a></li>
+            <li><a href="#">Tecnologia</a></li>
+            <li><a href="#">Cultura</a></li>
+        </ul>
+    </nav>
+    <main>
+        <article>
+            <header>
+                <h2>Exemplo de Título do Artigo</h2>
+                <p>Autor: John Doe | Data: 28 de julho de 2023</p>
+            </header>
+            <section>
+                <h3>Seção 1</h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod urna quis ligula elementum, vel tincidunt orci laoreet. Proin elementum pharetra orci. Vivamus ac sapien id mi dictum dictum. Aliquam vel odio ac nisi tincidunt mattis. Nullam euismod felis ut odio faucibus varius. Cras ut felis et est posuere fermentum. Etiam consectetur a ex in bibendum. In ac tellus mi.
+                </p>
+            </section>
+            <section>
+                <h3>Seção 2</h3>
+                <p>
+                    Sed euismod urna quis ligula elementum, vel tincidunt orci laoreet. Proin elementum pharetra orci. Vivamus ac sapien id mi dictum dictum. Aliquam vel odio ac nisi tincidunt mattis. Nullam euismod felis ut odio faucibus varius. Cras ut felis et est posuere fermentum. Etiam consectetur a ex in bibendum. In ac tellus mi.
+                </p>
+            </section>
+            <footer>
+                <p>Este é um artigo fictício apenas para fins de exemplo.</p>
+            </footer>
+        </article>
+    </main>
+    <footer>
+        <p>Todos os direitos reservados &copy; 2023 Wikipedia Moderna</p>
+    </footer>
+</body>
+</html>
